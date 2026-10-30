@@ -1,12 +1,12 @@
+<p align="center"><a href="https://kabir1921.github.io"><img src="banner.svg" alt="Kabir Anand: AI automation and operations builder" width="100%"></a></p>
+
+**Portfolio:** [kabir1921.github.io](https://kabir1921.github.io)
+
 # Kabir Anand
 
 **AI automation and operations builder** | BBA (Finance), PES University, 2026 | Bengaluru, India
 
-I build working AI systems for sales, operations and finance teams: lead handling, SLA alerting, voice agents and workflow automation, using Make.com, Claude/GPT-4o APIs, WhatsApp Cloud API, Slack and Python. <p align="center"><a href="https://kabir1921.github.io"><img src="banner.svg" alt="Kabir Anand: AI automation and operations builder" width="100%"></a></p>
-
-**Portfolio:** [kabir1921.github.io](https://kabir1921.github.io)
-
-Background in business development, financial analysis and research, so I start from the business problem and measure the result.
+I build working AI systems for sales, operations and finance teams: lead handling, SLA alerting, voice agents and workflow automation, using Make.com, Claude/GPT-4o APIs, WhatsApp Cloud API, Slack and Python. Background in business development, financial analysis and research, so I start from the business problem and measure the result.
 
 ## Selected projects
 
